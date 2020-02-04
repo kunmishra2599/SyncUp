@@ -1,0 +1,2615 @@
+We created a pulseSensor Object !
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+♥  A HeartBeat Happened ! 
+BPM: 76
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+♥  A HeartBeat Happened ! 
+BPM: 72
+1
+0
+1
+0
+1
+0
+1
+0
+♥  A HeartBeat Happened ! 
+BPM: 72
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+0
+1
+0
+2
+1
+2
+1
+2
+1
+2
+1
+2
+1
+2
+1
+2
+0
+3
+0
+4
+1
+4
+1
+4
+1
+4
+1
+4
+1
+4
+1
+4
+1
+4
+1
+4
+0
+5
+1
+5
+0
+6
+♥  A HeartBeat Happened ! 
+BPM: 238
+1
+6
+1
+6
+♥  A HeartBeat Happened ! 
+BPM: 226
+1
+6
+♥  A HeartBeat Happened ! 
+BPM: 226
+1
+6
+1
+6
+♥  A HeartBeat Happened ! 
+BPM: 218
+1
+6
+♥  A HeartBeat Happened ! 
+BPM: 218
+1
+6
+1
+6
+1
+6
+1
+6
+1
+6
+1
+6
+1
+6
+1
+6
+0
+7
+0
+8
+0
+9
+0
+10
+1
+10
+1
+10
+1
+10
+1
+10
+1
+10
+1
+10
+1
+10
+♥  A HeartBeat Happened ! 
+BPM: 132
+0
+11
+0
+12
+♥  A HeartBeat Happened ! 
+BPM: 133
+1
+12
+♥  A HeartBeat Happened ! 
+BPM: 139
+0
+13
+0
+14
+0
+15
+0
+16
+0
+17
+♥  A HeartBeat Happened ! 
+BPM: 124
+1
+17
+1
+17
+1
+17
+♥  A HeartBeat Happened ! 
+BPM: 120
+1
+17
+1
+17
+♥  A HeartBeat Happened ! 
+BPM: 119
+0
+18
+0
+19
+♥  A HeartBeat Happened ! 
+BPM: 123
+0
+20
+♥  A HeartBeat Happened ! 
+BPM: 128
+1
+20
+♥  A HeartBeat Happened ! 
+BPM: 134
+1
+20
+0
+21
+♥  A HeartBeat Happened ! 
+BPM: 140
+0
+22
+♥  A HeartBeat Happened ! 
+BPM: 147
+1
+22
+♥  A HeartBeat Happened ! 
+BPM: 154
+1
+22
+1
+22
+0
+23
+♥  A HeartBeat Happened ! 
+BPM: 145
+1
+23
+1
+23
+♥  A HeartBeat Happened ! 
+BPM: 165
+1
+23
+1
+23
+♥  A HeartBeat Happened ! 
+BPM: 181
+0
+24
+1
+24
+0
+25
+♥  A HeartBeat Happened ! 
+BPM: 170
+1
+25
+1
+25
+♥  A HeartBeat Happened ! 
+BPM: 164
+0
+26
+0
+27
+♥  A HeartBeat Happened ! 
+BPM: 156
+0
+28
+1
+28
+1
+28
+0
+29
+♥  A HeartBeat Happened ! 
+BPM: 141
+0
+30
+0
+31
+♥  A HeartBeat Happened ! 
+BPM: 132
+0
+32
+0
+33
+0
+34
+0
+35
+0
+36
+1
+36
+0
+37
+0
+38
+0
+39
+0
+40
+1
+40
+1
+40
+0
+41
+0
+42
+0
+43
+0
+44
+0
+45
+0
+46
+1
+46
+0
+47
+0
+48
+0
+49
+0
+50
+0
+51
+0
+52
+0
+53
+0
+54
+0
+55
+♥  A HeartBeat Happened ! 
+BPM: 238
+0
+56
+0
+57
+0
+58
+0
+59
+0
+60
+0
+61
+0
+62
+0
+63
+♥  A HeartBeat Happened ! 
+BPM: 159
+0
+64
+0
+65
+0
+66
+0
+67
+0
+68
+0
+69
+0
+70
+0
+71
+0
+72
+0
+73
+0
+74
+1
+74
+1
+74
+0
+75
+0
+76
+0
+77
+0
+78
+0
+79
+0
+80
+0
+81
+0
+82
+0
+83
+0
+84
+0
+85
+0
+86
+0
+87
+0
+88
+0
+89
+0
+90
+0
+91
+0
+92
+0
+93
+0
+94
+0
+95
+♥  A HeartBeat Happened ! 
+BPM: 57
+1
+95
+1
+95
+0
+96
+1
+96
+0
+97
+0
+98
+0
+99
+0
+100
+0
+101
+0
+102
+♥  A HeartBeat Happened ! 
+BPM: 52
+0
+103
+0
+104
+0
+105
+0
+106
+0
+107
+0
+108
+0
+109
+0
+110
+0
+111
+0
+112
+0
+113
+0
+114
+0
+115
+0
+116
+0
+117
+0
+118
+0
+119
+0
+120
+0
+121
+0
+122
+0
+123
+0
+124
+0
+125
+0
+126
+0
+127
+0
+128
+0
+129
+0
+130
+0
+131
+0
+132
+0
+133
+0
+134
+0
+135
+0
+136
+0
+137
+0
+138
+0
+139
+0
+140
+0
+141
+0
+142
+0
+143
+0
+144
+0
+145
+0
+146
+0
+147
+0
+148
+0
+149
+0
+150
+0
+151
+0
+152
+0
+153
+0
+154
+0
+155
+0
+156
+0
+157
+0
+158
+0
+159
+0
+160
+1
+160
+0
+161
+0
+162
+1
+162
+1
+162
+0
+163
+1
+163
+1
+163
+1
+163
+0
+164
+1
+164
+1
+164
+0
+165
+0
+166
+0
+167
+0
+168
+0
+169
+1
+169
+1
+169
+0
+170
+1
+170
+1
+170
+1
+170
+1
+170
+1
+170
+1
+170
+1
+170
+0
+171
+0
+172
+0
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+0
+180
+0
+181
+0
+182
+0
+183
+0
+184
+0
+185
+0
+186
+0
+187
+0
+188
+0
+189
+0
+190
+0
+191
+0
+192
+0
+193
+0
+194
+0
+195
+0
+196
+0
+197
+0
+198
+1
+198
+0
+199
+0
+200
+0
+201
+0
+202
+0
+203
+0
+204
+0
+205
+0
+206
+0
+207
+0
+208
+0
+209
+0
+210
+0
+211
+0
+212
+0
+213
+0
+214
+0
+215
+0
+216
+0
+217
+0
+218
+0
+219
+0
+220
+0
+221
+0
+222
+0
+223
+0
+224
+0
+225
+0
+226
+0
+227
+0
+228
+0
+229
+0
+230
+0
+231
+0
+232
+0
+233
+0
+234
+0
+235
+0
+236
+0
+237
+0
+238
+0
+239
+0
+240
+0
+241
+0
+242
+0
+243
+0
+244
+0
+245
+0
+246
+0
+247
+0
+248
+0
+249
+0
+250
+0
+251
+0
+252
+0
+253
+0
+254
+0
+255
+0
+256
+0
+257
+0
+258
+0
+259
+0
+260
+0
+261
+0
+262
+0
+263
+0
+264
+0
+265
+0
+266
+0
+267
+0
+268
+0
+269
+0
+270
+0
+271
+0
+272
+0
+273
+0
+274
+0
+275
+0
+276
+0
+277
+0
+278
+0
+279
+0
+280
+0
+281
+0
+282
+0
+283
+0
+284
+0
+285
+0
+286
+0
+287
+0
+288
+0
+289
+0
+290
+0
+291
+0
+292
+0
+293
+0
+294
+0
+295
+0
+296
+0
+297
+0
+298
+0
+299
+0
+300
+0
+301
+0
+302
+0
+303
+0
+304
+0
+305
+0
+306
+0
+307
+0
+308
+0
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+♥  A HeartBeat Happened ! 
+BPM: 24
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+♥  A HeartBeat Happened ! 
+BPM: 87
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+1
+309
+0
+310
+0
+311
+0
+312
+1
+312
+1
+312
+0
+313
+0
+314
+0
+315
+0
+316
+0
+317
+0
+318
+0
+319
+0
+320
+0
+321
+0
+322
+0
+323
+0
+324
+0
+325
+0
+326
+0
+327
+0
+328
+0
+329
+0
+330
+0
+331
+0
+332
+0
+333
+0
+334
+0
+335
+♥  A HeartBeat Happened ! 
+BPM: 35
+0
+336
+0
+337
+0
+338
+0
+339
+0
+340
+0
+341
+0
+342
+0
+343
+0
+344
+0
+345
+♥  A HeartBeat Happened ! 
+BPM: 34
+0
+346
+0
+347
+0
+348
+0
+349
+0
+350
+0
+351
+♥  A HeartBeat Happened ! 
+BPM: 35
+0
+352
+0
+353
+0
+354
+0
+355
+0
+356
+0
+357
+0
+358
+0
+359
+0
+360
+0
+361
+0
+362
+0
+363
+0
+364
+0
+365
+0
+366
+0
+367
+0
+368
+0
+369
+0
+370
+0
+371
+0
+372
+0
+373
+0
+374
+0
+375
+0
+376
+0
+377
+0
+378
+0
+379
+0
+380
+0
+381
+0
+382
+0
+383
+0
+384
+0
+385
+0
+386
+0
+387
+0
+388
+0
+389
+0
+390
+0
+391
+0
+392
+0
+393
+0
+394
+0
+395
+0
+396
+0
+397
+0
+398
+0
+399
+0
+400
+0
+401
+0
+402
+0
+403
+0
+404
+0
+405
+0
+406
+0
+407
+0
+408
+0
+409
+1
+409
+♥  A HeartBeat Happened ! 
+BPM: 44
+1
+409
+1
+409
+1
+409
+1
+409
+♥  A HeartBeat Happened ! 
+BPM: 46
+1
+409
+1
+409
+1
+409
+1
+409
+1
+409
+1
+409
+♥  A HeartBeat Happened ! 
+BPM: 47
+1
+409
+1
+409
+1
+409
+1
+409
+♥  A HeartBeat Happened ! 
+BPM: 49
+1
+409
+1
+409
+1
+409
+1
+409
+♥  A HeartBeat Happened ! 
+BPM: 51
+1
+409
+1
+409
+1
+409
+1
+409
+1
+409
+1
+409
+1
+409
+♥  A HeartBeat Happened ! 
+BPM: 51
+1
+409
+1
+409
+1
+409
+1
+409
+1
+409
+♥  A HeartBeat Happened ! 
+BPM: 52
+1
+409
+1
+409
+1
+409
+♥  A HeartBeat Happened ! 
+BPM: 56
+1
+409
+1
+409
+1
+409
+♥  A HeartBeat Happened ! 
+BPM: 60
+1
+409
+1
+409
+1
+409
+1
+409
+♥  A HeartBeat Happened ! 
+BPM: 64
+1
+409
+We created a pulseSensor Object !
+♥  A HeartBeat Happened ! 
+BPM: 97
+♥  A HeartBeat Happened ! 
+BPM: 87
+♥  A HeartBeat Happened ! 
+BPM: 58
+♥  A HeartBeat Happened ! 
+BPM: 57
+♥  A HeartBeat Happened ! 
+BPM: 59
+♥  A HeartBeat Happened ! 
+BPM: 62
+♥  A HeartBeat Happened ! 
+BPM: 67
+♥  A HeartBeat Happened ! 
+BPM: 73
+♥  A HeartBeat Happened ! 
+BPM: 80
+♥  A HeartBeat Happened ! 
+BPM: 89
+♥  A HeartBeat Happened ! 
+BPM: 101
+♥  A HeartBeat Happened ! 
+BPM: 116
+♥  A HeartBeat Happened ! 
+BPM: 136
+♥  A HeartBeat Happened ! 
+BPM: 168
+♥  A HeartBeat Happened ! 
+BPM: 192
+♥  A HeartBeat Happened ! 
+BPM: 191
+♥  A HeartBeat Happened ! 
+BPM: 128
+♥  A HeartBeat Happened ! 
+BPM: 109
+♥  A HeartBeat Happened ! 
+BPM: 171
+♥  A HeartBeat Happened ! 
+BPM: 176
+♥  A HeartBeat Happened ! 
+BPM: 181
+♥  A HeartBeat Happened ! 
+BPM: 163
+♥  A HeartBeat Happened ! 
+BPM: 151
+♥  A HeartBeat Happened ! 
+BPM: 150
+♥  A HeartBeat Happened ! 
+BPM: 150
+♥  A HeartBeat Happened ! 
+BPM: 154
+♥  A HeartBeat Happened ! 
+BPM: 158
+♥  A HeartBeat Happened ! 
+BPM: 161
+♥  A HeartBeat Happened ! 
+BPM: 165
+♥  A HeartBeat Happened ! 
+BPM: 165
+♥  A HeartBeat Happened ! 
+BPM: 160
+♥  A HeartBeat Happened ! 
+BPM: 184
+♥  A HeartBeat Happened ! 
+BPM: 160
+♥  A HeartBeat Happened ! 
+BPM: 149
+♥  A HeartBeat Happened ! 
+BPM: 146
+♥  A HeartBeat Happened ! 
+BPM: 140
+♥  A HeartBeat Happened ! 
+BPM: 140
+♥  A HeartBeat Happened ! 
+BPM: 132
+♥  A HeartBeat Happened ! 
+BPM: 129
+♥  A HeartBeat Happened ! 
+BPM: 129
+♥  A HeartBeat Happened ! 
+BPM: 128
+♥  A HeartBeat Happened ! 
+BPM: 128
+♥  A HeartBeat Happened ! 
+BPM: 155
+♥  A HeartBeat Happened ! 
+BPM: 173
+♥  A HeartBeat Happened ! 
+BPM: 175
+♥  A HeartBeat Happened ! 
+BPM: 185
+♥  A HeartBeat Happened ! 
+BPM: 179
+♥  A HeartBeat Happened ! 
+BPM: 196
+♥  A HeartBeat Happened ! 
+BPM: 197
+♥  A HeartBeat Happened ! 
+BPM: 197
+♥  A HeartBeat Happened ! 
+BPM: 196
+♥  A HeartBeat Happened ! 
+BPM: 196
+♥  A HeartBeat Happened ! 
+BPM: 202
+♥  A HeartBeat Happened ! 
+BPM: 194
+♥  A HeartBeat Happened ! 
+BPM: 201
+♥  A HeartBeat Happened ! 
+BPM: 201
+♥  A HeartBeat Happened ! 
+BPM: 200
+♥  A HeartBeat Happened ! 
+BPM: 200
+♥  A HeartBeat Happened ! 
+BPM: 207
+♥  A HeartBeat Happened ! 
+BPM: 199
+♥  A HeartBeat Happened ! 
+BPM: 209
+♥  A HeartBeat Happened ! 
+BPM: 209
+♥  A HeartBeat Happened ! 
+BPM: 202
+♥  A HeartBeat Happened ! 
+BPM: 209
+♥  A HeartBeat Happened ! 
+BPM: 209
+♥  A HeartBeat Happened ! 
+BPM: 202
+♥  A HeartBeat Happened ! 
+BPM: 211
+♥  A HeartBeat Happened ! 
+BPM: 202
+♥  A HeartBeat Happened ! 
+BPM: 202
+♥  A HeartBeat Happened ! 
+BPM: 211
+♥  A HeartBeat Happened ! 
+BPM: 202
+♥  A HeartBeat Happened ! 
+BPM: 202
+♥  A HeartBeat Happened ! 
+BPM: 209
+♥  A HeartBeat Happened ! 
+BPM: 184
+♥  A HeartBeat Happened ! 
+BPM: 176
+♥  A HeartBeat Happened ! 
+BPM: 161
+♥  A HeartBeat Happened ! 
+BPM: 154
+♥  A HeartBeat Happened ! 
+BPM: 156
+♥  A HeartBeat Happened ! 
+BPM: 156
+♥  A HeartBeat Happened ! 
+BPM: 156
+♥  A HeartBeat Happened ! 
+BPM: 159
+♥  A HeartBeat Happened ! 
+BPM: 159
+♥  A HeartBeat Happened ! 
+BPM: 159
+♥  A HeartBeat Happened ! 
+BPM: 178
+♥  A HeartBeat Happened ! 
+BPM: 181
+♥  A HeartBeat Happened ! 
+BPM: 209
+♥  A HeartBeat Happened ! 
+BPM: 217
+♥  A HeartBeat Happened ! 
+BPM: 59
+♥  A HeartBeat Happened ! 
+BPM: 61
+♥  A HeartBeat Happened ! 
+BPM: 65
+♥  A HeartBeat Happened ! 
+BPM: 71
+♥  A HeartBeat Happened ! 
+BPM: 76
+♥  A HeartBeat Happened ! 
+BPM: 83
+♥  A HeartBeat Happened ! 
+BPM: 93
+♥  A HeartBeat Happened ! 
+BPM: 103
+♥  A HeartBeat Happened ! 
+BPM: 119
+♥  A HeartBeat Happened ! 
+BPM: 140
+♥  A HeartBeat Happened ! 
+BPM: 170
+♥  A HeartBeat Happened ! 
+BPM: 193
+♥  A HeartBeat Happened ! 
+BPM: 180
+♥  A HeartBeat Happened ! 
+BPM: 173
+♥  A HeartBeat Happened ! 
+BPM: 184
+♥  A HeartBeat Happened ! 
+BPM: 191
+♥  A HeartBeat Happened ! 
+BPM: 191
+♥  A HeartBeat Happened ! 
+BPM: 115
+♥  A HeartBeat Happened ! 
+BPM: 89
+♥  A HeartBeat Happened ! 
+BPM: 50
+We created a pulseSensor Object !
+♥  A HeartBeat Happened ! 
+BPM: 152
+♥  A HeartBeat Happened ! 
+BPM: 148
+♥  A HeartBeat Happened ! 
+BPM: 149
+♥  A HeartBeat Happened ! 
+BPM: 154
+♥  A HeartBeat Happened ! 
+BPM: 160
+♥  A HeartBeat Happened ! 
+BPM: 162
+♥  A HeartBeat Happened ! 
+BPM: 161
+♥  A HeartBeat Happened ! 
+BPM: 168
+♥  A HeartBeat Happened ! 
+BPM: 167
+♥  A HeartBeat Happened ! 
+BPM: 174
+♥  A HeartBeat Happened ! 
+BPM: 175
+♥  A HeartBeat Happened ! 
+BPM: 189
+♥  A HeartBeat Happened ! 
+BPM: 187
+♥  A HeartBeat Happened ! 
+BPM: 187
+♥  A HeartBeat Happened ! 
+BPM: 187
+♥  A HeartBeat Happened ! 
+BPM: 187
+♥  A HeartBeat Happened ! 
+BPM: 196
+♥  A HeartBeat Happened ! 
+BPM: 196
+♥  A HeartBeat Happened ! 
+BPM: 207
+♥  A HeartBeat Happened ! 
+BPM: 207
+♥  A HeartBeat Happened ! 
+BPM: 216
+♥  A HeartBeat Happened ! 
+BPM: 209
+♥  A HeartBeat Happened ! 
+BPM: 222
+♥  A HeartBeat Happened ! 
+BPM: 222
+♥  A HeartBeat Happened ! 
+BPM: 211
+♥  A HeartBeat Happened ! 
+BPM: 218
+♥  A HeartBeat Happened ! 
+BPM: 218
+♥  A HeartBeat Happened ! 
+BPM: 218
+♥  A HeartBeat Happened ! 
+BPM: 218
+♥  A HeartBeat Happened ! 
+BPM: 209
+♥  A HeartBeat Happened ! 
+BPM: 209
+♥  A HeartBeat Happened ! 
+BPM: 214
+♥  A HeartBeat Happened ! 
+BPM: 214
+♥  A HeartBeat Happened ! 
+BPM: 208
+♥  A HeartBeat Happened ! 
+BPM: 218
+♥  A HeartBeat Happened ! 
+BPM: 218
+♥  A HeartBeat Happened ! 
+BPM: 218
+♥  A HeartBeat Happened ! 
+BPM: 186
+♥  A HeartBeat Happened ! 
+BPM: 172
+♥  A HeartBeat Happened ! 
+BPM: 171
+♥  A HeartBeat Happened ! 
+BPM: 171
+♥  A HeartBeat Happened ! 
+BPM: 161
+♥  A HeartBeat Happened ! 
+BPM: 160
+♥  A HeartBeat Happened ! 
+BPM: 163
+♥  A HeartBeat Happened ! 
+BPM: 157
+♥  A HeartBeat Happened ! 
+BPM: 157
+♥  A HeartBeat Happened ! 
+BPM: 157
+♥  A HeartBeat Happened ! 
+BPM: 181
+♥  A HeartBeat Happened ! 
+BPM: 196
+♥  A HeartBeat Happened ! 
+BPM: 206
+♥  A HeartBeat Happened ! 
+BPM: 206
+♥  A HeartBeat Happened ! 
+BPM: 223
+♥  A HeartBeat Happened ! 
+BPM: 227
+♥  A HeartBeat Happened ! 
+BPM: 227
+♥  A HeartBeat Happened ! 
+BPM: 238
+♥  A HeartBeat Happened ! 
+BPM: 238
+♥  A HeartBeat Happened ! 
+BPM: 238
+♥  A HeartBeat Happened ! 
+BPM: 236
+♥  A HeartBeat Happened ! 
+BPM: 232
+♥  A HeartBeat Happened ! 
+BPM: 230
+♥  A HeartBeat Happened ! 
+BPM: 229
+♥  A HeartBeat Happened ! 
+BPM: 228
+♥  A HeartBeat Happened ! 
+BPM: 228
+♥  A HeartBeat Happened ! 
+BPM: 227
+♥  A HeartBeat Happened ! 
+BPM: 226
+♥  A HeartBeat Happened ! 
+BPM: 226
+♥  A HeartBeat Happened ! 
+BPM: 226
+♥  A HeartBeat Happened ! 
+BPM: 228
+♥  A HeartBeat Happened ! 
+BPM: 229
+♥  A HeartBeat Happened ! 
+BPM: 229
+♥  A HeartBeat Happened ! 
+BPM: 229
+♥  A HeartBeat Happened ! 
+BPM: 230
+♥  A HeartBeat Happened ! 
+BPM: 229
+♥  A HeartBeat Happened ! 
+BPM: 229
+♥  A HeartBeat Happened ! 
+BPM: 229
+♥  A HeartBeat Happened ! 
+BPM: 229
+♥  A HeartBeat Happened ! 
+BPM: 228
+♥  A HeartBeat Happened ! 
+BPM: 228
+♥  A HeartBeat Happened ! 
+BPM: 227
+♥  A HeartBeat Happened ! 
+BPM: 226
+♥  A HeartBeat Happened ! 
+BPM: 226
+♥  A HeartBeat Happened ! 
+BPM: 224
+♥  A HeartBeat Happened ! 
+BPM: 224
+♥  A HeartBeat Happened ! 
+BPM: 224
+♥  A HeartBeat Happened ! 
+BPM: 223
+♥  A HeartBeat Happened ! 
+BPM: 223
+♥  A HeartBeat Happened ! 
+BPM: 223
+♥  A HeartBeat Happened ! 
+BPM: 223
+♥  A HeartBeat Happened ! 
+BPM: 223
+♥  A HeartBeat Happened ! 
+BPM: 224
+♥  A HeartBeat Happened ! 
+BPM: 223
+♥  A HeartBeat Happened ! 
+BPM: 225
+♥  A HeartBeat Happened ! 
+BPM: 227
+♥  A HeartBeat Happened ! 
+BPM: 196
+♥  A HeartBeat Happened ! 
+BPM: 189
+♥  A HeartBeat Happened ! 
+BPM: 189
+♥  A HeartBeat Happened ! 
+BPM: 177
+♥  A HeartBeat Happened ! 
+BPM: 175
+♥  A HeartBeat Happened ! 
+BPM: 169
+♥  A HeartBeat Happened ! 
+BPM: 170
+♥  A HeartBeat Happened ! 
+BPM: 172
+♥  A HeartBeat Happened ! 
+BPM: 172
+♥  A HeartBeat Happened ! 
+BPM: 172
+♥  A HeartBeat Happened ! 
+BPM: 195
+♥  A HeartBeat Happened ! 
+BPM: 203
+♥  A HeartBeat Happened ! 
+BPM: 203
+♥  A HeartBeat Happened ! 
+BPM: 179
+♥  A HeartBeat Happened ! 
+BPM: 151
+♥  A HeartBeat Happened ! 
+BPM: 114
+♥  A HeartBeat Happened ! 
+BPM: 37
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 39
+♥  A HeartBeat Happened ! 
+BPM: 72
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 42
+♥  A HeartBeat Happened ! 
+BPM: 43
+♥  A HeartBeat Happened ! 
+BPM: 44
+♥  A HeartBeat Happened ! 
+BPM: 46
+♥  A HeartBeat Happened ! 
+BPM: 43
+TREMOR
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 33
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 148
+♥  A HeartBeat Happened ! 
+BPM: 154
+♥  A HeartBeat Happened ! 
+BPM: 140
+♥  A HeartBeat Happened ! 
+BPM: 131
+♥  A HeartBeat Happened ! 
+BPM: 131
+TREMOR
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 46
+♥  A HeartBeat Happened ! 
+BPM: 48
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 125
+♥  A HeartBeat Happened ! 
+BPM: 119
+♥  A HeartBeat Happened ! 
+BPM: 124
+♥  A HeartBeat Happened ! 
+BPM: 112
+♥  A HeartBeat Happened ! 
+BPM: 104
+♥  A HeartBeat Happened ! 
+BPM: 98
+♥  A HeartBeat Happened ! 
+BPM: 92
+♥  A HeartBeat Happened ! 
+BPM: 86
+♥  A HeartBeat Happened ! 
+BPM: 81
+♥  A HeartBeat Happened ! 
+BPM: 76
+♥  A HeartBeat Happened ! 
+BPM: 76
+♥  A HeartBeat Happened ! 
+BPM: 77
+♥  A HeartBeat Happened ! 
+BPM: 73
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 75
+♥  A HeartBeat Happened ! 
+BPM: 76
+♥  A HeartBeat Happened ! 
+BPM: 80
+♥  A HeartBeat Happened ! 
+BPM: 87
+TREMOR
+TREMOR
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 44
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 38
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 85
+♥  A HeartBeat Happened ! 
+BPM: 88
+♥  A HeartBeat Happened ! 
+BPM: 94
+♥  A HeartBeat Happened ! 
+BPM: 100
+♥  A HeartBeat Happened ! 
+BPM: 108
+♥  A HeartBeat Happened ! 
+BPM: 118
+♥  A HeartBeat Happened ! 
+BPM: 129
+♥  A HeartBeat Happened ! 
+BPM: 136
+♥  A HeartBeat Happened ! 
+BPM: 151
+♥  A HeartBeat Happened ! 
+BPM: 155
+♥  A HeartBeat Happened ! 
+BPM: 169
+♥  A HeartBeat Happened ! 
+BPM: 180
+♥  A HeartBeat Happened ! 
+BPM: 182
+♥  A HeartBeat Happened ! 
+BPM: 185
+♥  A HeartBeat Happened ! 
+BPM: 131
+♥  A HeartBeat Happened ! 
+BPM: 114
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 174
+♥  A HeartBeat Happened ! 
+BPM: 110
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 33
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 56
+♥  A HeartBeat Happened ! 
+BPM: 55
+♥  A HeartBeat Happened ! 
+BPM: 53
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 96
+TREMOR
+TREMOR
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 72
+♥  A HeartBeat Happened ! 
+BPM: 75
+♥  A HeartBeat Happened ! 
+BPM: 67
+♥  A HeartBeat Happened ! 
+BPM: 66
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 49
+♥  A HeartBeat Happened ! 
+BPM: 49
+TREMOR
+TREMOR
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 46
+TREMOR
+TREMOR
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 131
+♥  A HeartBeat Happened ! 
+BPM: 120
+♥  A HeartBeat Happened ! 
+BPM: 119
+♥  A HeartBeat Happened ! 
+BPM: 118
+♥  A HeartBeat Happened ! 
+BPM: 113
+♥  A HeartBeat Happened ! 
+BPM: 114
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 230
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 41
+♥  A HeartBeat Happened ! 
+BPM: 41
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 41
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 27
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 43
+TREMOR
+TREMOR
+TREMOR
+TREMOR
+♥  A HeartBeat Happened ! 
+BPM: 63
+♥  A HeartBeat Happened ! 
+BPM: 53
+We created a pulseSensor Object !
+238
+237
+172
+72
+48
+50
+47
+223
+191
+169
+163
+164
+164
+143
+129
+97
+86
+48
+49
+40
+41
+42
+47
+49
+116
+121
+125
+132
+113
+81
+103
+107
+114
+43
+43
+45
+187
+166
+160
+163
+164
+167
+162
+151
+150
+98
+75
+70
+55
+58
+62
+68
+24
+35
+34
+34
+35
+38
+41
+46
+51
+59
+69
+83
+105
+145
+154
+160
+151
+146
+131
+126
+125
+125
+103
+93
+92
+91
+95
+204
+120
+98
+48
+48
+126
+45
+47
+89
+60
+42
+58
+126
+48
+42
+28
+28
+30
+45
+46
+49
+65
+68
+45
+92
+93
+98
+95
+97
+103
+111
+120
+130
+142
+157
+169
+173
+209
+229
+232
+232
+232
+232
+232
+232
+233
+36
+67
+69
